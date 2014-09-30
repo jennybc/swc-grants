@@ -27,3 +27,8 @@ SWC and grants
     - UBC's Statistical Consulting and Research Lab has delivered R/stats/SWC-ish workshops for at least one NSERC CREATE already
     - program has been going on since 2009 and ongoing + new CREATEs are potential SWC partners
       - [All competition results](http://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/CREATEResults-ResultatsFONCER_eng.asp)
+      
+  - NIH Research Education Program (R25) ... support educational activities that complement and/or enhance the training of a workforce to meet the nation’s biomedical, behavioral and clinical research needs
+    - Recent call: [Training Modules to Enhance Data Reproducibility (R25)](http://grants.nih.gov/grants/guide/rfa-files/RFA-GM-15-006.html)
+    - aimed at "support[ing] creative educational activities with a primary focus on developing courses for skills development, specifically, training modules for graduate students, postdoctoral fellows, and beginning investigators designed to enhance data reproducibility
+    - Letter of intent due 2014-10-24; application due 2014-11-21
