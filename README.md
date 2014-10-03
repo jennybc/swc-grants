@@ -4,8 +4,11 @@ swc-grants
 SWC and grants
 
 - Shared resource between SWC and DC?
+ 
+- A "bank" of text that can be adapted and inserted into grant applications, i.e. to request financial support for a workshop or two or three or to contribute to core operations for curriculum development. Contact info for individuals willing to look over.
 
 - Submitted grants. Anywhere from actual proposals to a list/table.
+ 
   - Improving Undergraduate STEM Education (IUSE). 
     - <http://www.nsf.gov/pubs/2014/nsf14588/nsf14588.htm>
     - See "Engaged Student Learning: Design and Development, I & II"
@@ -14,12 +17,7 @@ SWC and grants
   - Ethan White's list of publicly available grant proposals in the biological sciences could be mined for more examples
     - <http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/>
 
-- Text that can be adapted and inserted into grant applications, i.e. to request financial support a workshop or two or three. Contact info for individuals willing to look over.
-
-- Shuttleworth Foundation Fellowship: <https://www.shuttleworthfoundation.org/applications/>
-  - Greg Wilson is planning to apply (deadline is end of October 2014)
-
-- Upcoming/ongoing grant opportunities of potential relevance to SWC, plus who is currently working on them or might be interested in working on them.
+ Upcoming/ongoing grant opportunities of potential relevance to SWC, plus who is working up an application.
 
   - [NSERC CREATE](http://www.nserc-crsng.gc.ca/Professors-Professeurs/grants-subs/CREATE-FONCER_eng.asp) (Canada) "supports the training of teams of highly qualified students and postdoctoral fellows".
     - SWC could *partner* with CREATE programs to deliver a specific kind of enhanced training
@@ -35,3 +33,9 @@ SWC and grants
     - Recent call: [Training Modules to Enhance Data Reproducibility (R25)](http://grants.nih.gov/grants/guide/rfa-files/RFA-GM-15-006.html)
     - aimed at "support[ing] creative educational activities with a primary focus on developing courses for skills development, specifically, training modules for graduate students, postdoctoral fellows, and beginning investigators designed to enhance data reproducibility
     - Letter of intent due 2014-10-24; application due 2014-11-21
+
+  - Shuttleworth Foundation Fellowship: "fellowships to individuals to implement their innovative idea for social change. We are most interested in exceptional ideas at the intersection between technology, knowledge and learning, with openness being the key requirement"
+    - <https://www.shuttleworthfoundation.org/applications/>
+    - Greg Wilson is planning to apply (deadline is end of October 2014)
+
+-
