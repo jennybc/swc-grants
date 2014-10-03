@@ -16,6 +16,9 @@ SWC and grants
 
 - Text that can be adapted and inserted into grant applications, i.e. to request financial support a workshop or two or three. Contact info for individuals willing to look over.
 
+- Shuttleworth Foundation Fellowship: <https://www.shuttleworthfoundation.org/applications/>
+  - Greg Wilson is planning to apply (deadline is end of October 2014)
+
 - Upcoming/ongoing grant opportunities of potential relevance to SWC, plus who is currently working on them or might be interested in working on them.
 
   - [NSERC CREATE](http://www.nserc-crsng.gc.ca/Professors-Professeurs/grants-subs/CREATE-FONCER_eng.asp) (Canada) "supports the training of teams of highly qualified students and postdoctoral fellows".
