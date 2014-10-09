@@ -38,4 +38,5 @@ SWC and grants
     - <https://www.shuttleworthfoundation.org/applications/>
     - Greg Wilson is planning to apply (deadline is end of October 2014)
 
--
+  - Recently announced NIH BD2K awards are examples of activities SWC could partner in in the future:
+    - <http://bd2k.nih.gov/FY14/Ed/Ed.html#sthash.COUXcDzh.dVEYA5uc.dpbs>
