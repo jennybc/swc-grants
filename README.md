@@ -41,5 +41,7 @@ SWC and grants
   - Recently announced NIH BD2K awards are examples of activities SWC could partner in in the future:
     - <http://bd2k.nih.gov/FY14/Ed/Ed.html#sthash.COUXcDzh.dVEYA5uc.dpbs>
 
-  - Here are all current NIH BD2K funding opportunities
+  - Here are all current NIH BD2K funding opportunities, highlighting some esp. relevant ones
     - <http://bd2k.nih.gov/funding_opportunities.html#sthash.26tfrgjq.dpbs>
+    - Courses for Skills Development in Biomedical Big Data Science (R25) next deadline 2015 April 01
+    - Open Educational Resources for Biomedical Big Data (R25) next deadline 2015 April 01
