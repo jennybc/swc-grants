@@ -40,3 +40,6 @@ SWC and grants
 
   - Recently announced NIH BD2K awards are examples of activities SWC could partner in in the future:
     - <http://bd2k.nih.gov/FY14/Ed/Ed.html#sthash.COUXcDzh.dVEYA5uc.dpbs>
+
+  - Here are all current NIH BD2K funding opportunities
+    - <http://bd2k.nih.gov/funding_opportunities.html#sthash.26tfrgjq.dpbs>
